@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "High-density silicon probe recordings in the visual and parietal cortices during visual object recognition in the mouse.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Shobe, Justin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
